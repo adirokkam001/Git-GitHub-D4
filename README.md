@@ -1,4 +1,4 @@
-# Git & GitHub ⭐⭐⭐
+# Git & GitHub 
 
 Git is one of the most important tools in DevOps because DevOps engineers constantly work with source code, configuration files, infrastructure code, CI/CD pipelines, and deployment files.
 
